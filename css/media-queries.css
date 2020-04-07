@@ -1,0 +1,14 @@
+@media (max-width: 900px){
+  .presentation-profile-main  {
+    grid-template-columns: 1fr;
+    grid-template-rows: 2fr;
+  }
+
+  .project-profile-description-main {
+    grid-template-columns: 1fr;
+    grid-template-rows: 3fr;
+  }
+
+
+
+}
